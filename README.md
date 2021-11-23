@@ -1,4 +1,5 @@
 # ein-kleiner-Test
 ein erster Test zum Umgang mit GitHub
 
-##testest
+Autor: Caroline Baer
+Email: caroline.baer@tu-dortmund.de
